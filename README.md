@@ -199,4 +199,4 @@ This repository serves as the official landing page for Hollow Survivors. The so
 **Get the most recent version of Hollow Survivors today!**
 
 ---
-**Last updated:** 2026-11-13 18:56:07 UTC
+**Last updated:** 2026-11-14 00:04:30 UTC
